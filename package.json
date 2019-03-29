@@ -1,0 +1,20 @@
+{
+  "name": "pc_information_console",
+  "version": "1.0.0",
+  "description": "Displays information about your pc from your console. Has graphics to display memory and cpu load. ",
+  "main": "conversation.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "PC",
+    "information"
+  ],
+  "author": "Seth Snider",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^2.4.2",
+    "inquirer": "^6.2.2",
+    "pc": "0.0.6"
+  }
+}
